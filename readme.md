@@ -13,6 +13,9 @@
   <a href="https://www.npmjs.com/package/@fingerprintjs/fingerprintjs">
     <img src="https://img.shields.io/npm/v/@fingerprintjs/fingerprintjs.svg" alt="Current NPM version">
   </a>
+  <a href="https://gitpod.io/from-referrer/">
+    <img src="https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod" alt="Gitpod Ready-to-Code">
+ </a>
 </p>
 
 Makes a website visitor identifier from a browser fingerprint.

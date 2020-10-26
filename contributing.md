@@ -27,6 +27,17 @@ yarn playground:build
 
 The result will appear at `playground/dist`.
 
+### Online one-click setup
+
+You can use Gitpod(an online IDE which is free for Open Source) for the online setup where you can make PRs,work on issues. With a single click it will launch a workspace and automatically:
+
+- clone the `FingerprintJS` repo.
+- install the dependencies.
+- run `yarn build`.
+- run `yarn playground:start`.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
+
 ### Code style
 
 The code style is controlled by [ESLint](https://eslint.org) and [Prettier](https://prettier.io).
